@@ -41,7 +41,3 @@ Ingressos:
 Combos "2020":
 1.Blusa(3) e ingresso(3).00,00R$
 2.Blusa, ingresso e viajem 24,00R$
-Isolamento Social:
-1.Batata atleta........4,99R$
-2.Açaí  vermectina....(R$\ml)
-3.batata com baconflix e amacheddon...............12,99R$
