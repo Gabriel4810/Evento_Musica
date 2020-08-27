@@ -1,23 +1,24 @@
 # Evento_Musica
 Cada grupo deverá: 
 
-1 - Pensar no tema do proJeto......................Site de Vendas de Ingresso e Informação de Eventos Músicais.........[OK]
-2 - Criar um proJeto no Github.........................................................................................[OK]
-3 - Vincular o prometo do github no Zenhub ............................................................................[OK]
+1 - Pensar no tema do projeto: Site de Vendas de Ingresso e Informação de Eventos Músicais.[OK]
+2 - Criar um proJeto no Github[OK]
+3 - Vincular o prometo do github no Zenhub [OK]
+3 - Nome do site. [  ]
 
-Frontend (React) ...........................................................[  ]
-Backend (livre escolha (php, nodejs, adonis, Laravel)) .....................[  ]
-Banco de Dados (livre escolha (sqlite, mysql, pastgres)) ...................[  ]
+Frontend (React)[  ]
+Backend (livre escolha (php, nodejs, adonis, Laravel)).[  ]
+Banco de Dados (livre escolha (sqlite, mysql, pastgres))[  ]
 
 Agradaria bastante o professor, se usasse: 
-    -migrations ............................................................[  ]
-    -Seeders................................................................[  ]
+    -migrations[  ]
+    -Seeders[  ]
 
 Ações
-    Listar (com pesquisa) ..................................................[  ]
-    Inserir ................................................................[  ]
-    Alterar ................................................................[  ]
-    Excluir ................................................................[  ]
+    Listar (com pesquisa)[  ]
+    Inserir.[  ]
+    Alterar.[  ]
+    Excluir.[  ]
     Painéis ADM / Relatórios (ex: gráfico de quantidade de alunos por turma)[  ]
 
 
