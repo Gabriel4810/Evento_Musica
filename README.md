@@ -1,10 +1,10 @@
 # Evento_Musica
 Cada grupo deverá: 
 
-1 - Pensar no tema do projeto: Site de Vendas de Ingresso e Informação de Eventos Músicais.[OK]
-2 - Criar um proJeto no Github[OK]
-3 - Vincular o prometo do github no Zenhub [OK]
-3 - Nome do site. [  ]
+1 - Pensar no tema do projeto: Site de Vendas de Ingresso e Informação de Eventos Músicais.[OK] 
+2 - Criar um proJeto no Github[OK] 
+3 - Vincular o prometo do github no Zenhub [OK] 
+3 - Nome do site. [  ] 
 
 Frontend (React)[  ]
 Backend (livre escolha (php, nodejs, adonis, Laravel)).[  ]
