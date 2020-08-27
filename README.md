@@ -39,5 +39,5 @@ Ingressos:
 4. Palco............ 7,65R$
 5. Pista......... 9,99R$
 Combos "2020":
-1.Blusa(3) e ingresso(3).00,00R$
+1.Blusa(3) e ingresso(3).00,00R
 2.Blusa, ingresso e viajem 24,00R$
