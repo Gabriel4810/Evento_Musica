@@ -33,20 +33,15 @@ FOOD'DFOME
 -Jeferson
 -Abner
 
-Sanduíches:
-1. X-Emergencial.......8,99R$
-2. X-Bolsafamilia.......5,99R$
-4. X-Vacina.................7,65R$
-5. X-gafanhoto...........9,99R$
-6. X-tufão...................8,99R$
-Sanduíches(Food'dFome):
-1. X-Aglomeração.....12,99R$
-2. X-Cloroquina.........12,99R$
-3. X-Corona...............19,00R$
+Ingressos:
+1. VIP................. 8,99R$
+2. Meia entrada - VIP...... 5,99R$
+4. Palco............ 7,65R$
+5. Pista......... 9,99R$
+6. X-tufão............. 8,99R$
 Combos "2020":
-1.infectado.(Cloroquina,Batata atleta,coca nuclear).20,00R$
-2.S\Máscara.(Corona,Batata atleta, coca nuclear)24,00R$
-3."2020".(Corona,gafanhoto,batata atleta, coca nuclear)30,00R$
+1.Blusa(3) e ingresso(3).00,00R$
+2.Blusa, ingresso e viajem 24,00R$
 Isolamento Social:
 1.Batata atleta........4,99R$
 2.Açaí  vermectina....(R$\ml)
