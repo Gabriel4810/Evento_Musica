@@ -27,9 +27,11 @@ Evento
 °Frontend:
 -
 -
+Evento Membros responsáveis por
 °Backend:
 -
 -
+Evento Membros responsáveis por
 °Banco de Dados
 -
 -
