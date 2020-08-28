@@ -24,15 +24,15 @@ Ações
 
 Evento
  Membros responsáveis por :
-°Frontend:
+Frontend:
 -
 -
 Evento Membros responsáveis por
-°Backend:
+Backend:
 -
 -
 Evento Membros responsáveis por
-°Banco de Dados
+Banco de Dados
 -
 -
 
