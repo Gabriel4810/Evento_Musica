@@ -10,9 +10,9 @@ Grupo deverá:
 - Nome do site. 
  [  ] 
 
-Frontend (React)[  ]
-Backend (livre escolha (php, nodejs, adonis, Laravel)).[  ]
-Banco de Dados (livre escolha (sqlite, mysql, pastgres))[  ]
+1) Frontend (React)[  ]
+2) Backend (livre escolha (php, nodejs, adonis, Laravel)).[  ]
+3) Banco de Dados (livre escolha (sqlite, mysql, pastgres))[  ]
 
 Agradaria bastante o professor, se usasse: 
     -migrations[  ]
