@@ -40,11 +40,12 @@ Banco de Dados
 -
 -
 
-Ingressos:
-1. VIP.................  
-2. Premium...... 5,99R$
-4. Palco............ 7,65R$
-5. Pista......... 9,99R$
+Tabela de preços dos produtos
+ - Ingressos:
+1) VIP.................  
+2) Premium...... 5,99R$
+4) Palco............ 7,65R$
+5) Pista......... 9,99R$
 Combos "2020":
 1.Blusa(3) e ingresso(3).00,00$
 2.Blusa, ingresso e viajem 24,00R$
