@@ -23,7 +23,7 @@ Ações
 
 
 Evento
- Membros responsáveis por :
+ Membros responsáveis por 
 Frontend:
 -
 -
