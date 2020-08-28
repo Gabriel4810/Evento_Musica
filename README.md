@@ -26,16 +26,16 @@ Ações
     Painéis ADM / Relatórios (ex: gráfico de quantidade de alunos por turma)[  ]
 
 
-Evento
- Membros responsáveis por 
+
+Membros responsáveis por 
 Frontend:
 -
 -
-Evento Membros responsáveis por
+Membros responsáveis por
 Backend:
 -
 -
-Evento Membros responsáveis por
+Membros responsáveis por
 Banco de Dados
 -
 -
