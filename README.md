@@ -5,7 +5,7 @@ Grupo deverá:
  [OK] 
 - Criar um proJeto no Github
  [OK] 
-- Vincular o prometo do github no Zenhub 
+- Vincular o projeto do github no Zenhub
  [OK] 
 - Nome do site. 
  [  ] 
